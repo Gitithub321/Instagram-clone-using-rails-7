@@ -278,6 +278,7 @@ DEPENDENCIES
   sqlite3!
   stimulus-rails
   turbo-rails
+  tzinfo
   tzinfo-data
   web-console
   webdrivers
